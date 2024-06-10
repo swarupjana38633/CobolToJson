@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JRecord">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/local-maven-repo/JRecord.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
